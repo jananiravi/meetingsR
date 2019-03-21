@@ -29,6 +29,7 @@ gender diversity in the R community.
 ### Brazil
 
  * Rio-de-Janeiro: [R-Ladies Rio-de-Janeiro](https://www.meetup.com/R-Ladies-Rio-de-Janeiro); [\@RLadiesRio](https://twitter.com/RLadiesRio)
+ * Belo-Horizonte: [R-Ladies Belo-Horizonte](https://www.meetup.com/pt-BR/rladies-belo-horizonte/); [\@RLadiesBH](https://twitter.com/RLadiesBH)
 
 ### France
 
@@ -50,6 +51,9 @@ gender diversity in the R community.
 ### Nepal
 
  * Kathmandu: [R-Ladies Kathmandu](https://www.meetup.com/rladies-kathmandu/); [\@RLadiesKtm](https://twitter.com/RLadiesKtm)
+ 
+### Norway
+ * Oslo: [RLadies Oslo](https://www.meetup.com/en-AU/rladies-oslo/); [\@RLadies_Oslo](https://twitter.com/RLadies_Oslo)
   
 ### Peru
 
@@ -94,12 +98,14 @@ gender diversity in the R community.
 ### United States of America
 
   * Los Angeles, CA: [R-Ladies Los Angeles](https://www.meetup.com/rladies-la/)
-  * San Francisco: [R-Ladies SF](https://www.meetup.com/rladies-san-francisco/); [\@RLadiesSF](https://twitter.com/RLadiesSF).
+  * San Francisco, CA: [R-Ladies SF](https://www.meetup.com/rladies-san-francisco/); [\@RLadiesSF](https://twitter.com/RLadiesSF).
   * Miami, FL: [R-Ladies Miami](https://www.meetup.com/R-Ladies-Miami/)
   * Orlando, FL: [R-Ladies Orlando](https://www.meetup.com/R-Ladies-Orlando/)
   * Ames, IO: [R-Ladies Ames](https://www.meetup.com/R-Ladies-Ames/); [\@RLadiesAmes](https://twitter.com/RLadiesAmes)
+  * Chicago, IL: [R-Ladies Chicago](https://www.meetup.com/rladies-chicago/); [\@RLadiesChicago](https://twitter.com/RLadiesChicago)
   * Louisville, KY: [R-Ladies Louisville](https://www.meetup.com/rladies-louisville/)
   * Boston, MA: [R-Ladies Boston](https://www.meetup.com/R-Ladies-Boston/)
+  * East Lansing, MI: [R-Ladies East Lansing](https://www.meetup.com/rladies-eastlansing); [\@RLadiesELansing](https://twitter.com/RLadiesELansing)
   * Buffalo, NY: [R-Ladies Buffalo](https://www.meetup.com/RLadies-Buffalo/)
   * New York, NY: [R-Ladies New York](https://www.meetup.com/rladies-newyork/)
   * Durham, NC: [R-Ladies RTP](https://www.meetup.com/R-Ladies-RTP/)
